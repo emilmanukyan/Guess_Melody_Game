@@ -1,0 +1,51 @@
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию\GuessMelody\GuessMelody\bin\Debug\GuessMelody.exe.config
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию\GuessMelody\GuessMelody\bin\Debug\GuessMelody.exe
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию\GuessMelody\GuessMelody\bin\Debug\GuessMelody.pdb
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию\GuessMelody\GuessMelody\obj\Debug\GuessMelody.csprojAssemblyReference.cache
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию\GuessMelody\GuessMelody\obj\Debug\GuessMelody.Properties.Resources.resources
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию\GuessMelody\GuessMelody\obj\Debug\GuessMelody.csproj.GenerateResource.cache
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию\GuessMelody\GuessMelody\obj\Debug\GuessMelody.csproj.CoreCompileInputs.cache
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию\GuessMelody\GuessMelody\obj\Debug\GuessMelody.exe
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию\GuessMelody\GuessMelody\obj\Debug\GuessMelody.pdb
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию\GuessMelody\GuessMelody\obj\Debug\GuessMelody.fMain.resources
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию\GuessMelody\GuessMelody\obj\Debug\GuessMelody.fParam.resources
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию (Not Finished)\GuessMelody\GuessMelody\bin\Debug\GuessMelody.exe.config
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию (Not Finished)\GuessMelody\GuessMelody\bin\Debug\GuessMelody.exe
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию (Not Finished)\GuessMelody\GuessMelody\bin\Debug\GuessMelody.pdb
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию (Not Finished)\GuessMelody\GuessMelody\obj\Debug\GuessMelody.csproj.AssemblyReference.cache
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию (Not Finished)\GuessMelody\GuessMelody\obj\Debug\GuessMelody.fMain.resources
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию (Not Finished)\GuessMelody\GuessMelody\obj\Debug\GuessMelody.fParam.resources
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию (Not Finished)\GuessMelody\GuessMelody\obj\Debug\GuessMelody.Properties.Resources.resources
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию (Not Finished)\GuessMelody\GuessMelody\obj\Debug\GuessMelody.csproj.GenerateResource.cache
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию (Not Finished)\GuessMelody\GuessMelody\obj\Debug\GuessMelody.csproj.CoreCompileInputs.cache
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию (Not Finished)\GuessMelody\GuessMelody\obj\Debug\GuessMelody.exe
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию (Not Finished)\GuessMelody\GuessMelody\obj\Debug\GuessMelody.pdb
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию (Not Finished)\GuessMelody\GuessMelody\obj\Debug\GuessMelody.fGame.resources
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию (Not Finished)\GuessMelody\GuessMelody\bin\Debug\Interop.WMPLib.dll
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию (Not Finished)\GuessMelody\GuessMelody\bin\Debug\AxInterop.WMPLib.dll
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию (Not Finished)\GuessMelody\GuessMelody\obj\Debug\Interop.WMPLib.dll
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию (Not Finished)\GuessMelody\GuessMelody\obj\Debug\AxInterop.WMPLib.dll
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию (Not Finished)\GuessMelody\GuessMelody\obj\Debug\GuessMelody.csproj.ResolveComReference.cache
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию (Not Finished)\GuessMelody\GuessMelody\obj\Debug\GuessMelody.fMessage.resources
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию (Not Finished)\GuessMelody\GuessMelody\bin\Debug\Resources\Stop_Tone.wav
+D:\for pragrammer\PROJECT'S\C# Project's\Викторина. Угадай мелодию (Not Finished)\GuessMelody\GuessMelody\obj\Debug\GuessMelody.fWin.resources
+D:\for_pragrammer\PROJECT'S\C#_Project's\Guess_Melody\GuessMelody\GuessMelody\bin\Debug\Resources\Stop_Tone.wav
+D:\for_pragrammer\PROJECT'S\C#_Project's\Guess_Melody\GuessMelody\GuessMelody\bin\Debug\GuessMelody.exe.config
+D:\for_pragrammer\PROJECT'S\C#_Project's\Guess_Melody\GuessMelody\GuessMelody\bin\Debug\GuessMelody.exe
+D:\for_pragrammer\PROJECT'S\C#_Project's\Guess_Melody\GuessMelody\GuessMelody\bin\Debug\GuessMelody.pdb
+D:\for_pragrammer\PROJECT'S\C#_Project's\Guess_Melody\GuessMelody\GuessMelody\bin\Debug\Interop.WMPLib.dll
+D:\for_pragrammer\PROJECT'S\C#_Project's\Guess_Melody\GuessMelody\GuessMelody\bin\Debug\AxInterop.WMPLib.dll
+D:\for_pragrammer\PROJECT'S\C#_Project's\Guess_Melody\GuessMelody\GuessMelody\obj\Debug\GuessMelody.csproj.AssemblyReference.cache
+D:\for_pragrammer\PROJECT'S\C#_Project's\Guess_Melody\GuessMelody\GuessMelody\obj\Debug\Interop.WMPLib.dll
+D:\for_pragrammer\PROJECT'S\C#_Project's\Guess_Melody\GuessMelody\GuessMelody\obj\Debug\AxInterop.WMPLib.dll
+D:\for_pragrammer\PROJECT'S\C#_Project's\Guess_Melody\GuessMelody\GuessMelody\obj\Debug\GuessMelody.csproj.ResolveComReference.cache
+D:\for_pragrammer\PROJECT'S\C#_Project's\Guess_Melody\GuessMelody\GuessMelody\obj\Debug\GuessMelody.fGame.resources
+D:\for_pragrammer\PROJECT'S\C#_Project's\Guess_Melody\GuessMelody\GuessMelody\obj\Debug\GuessMelody.fMessage.resources
+D:\for_pragrammer\PROJECT'S\C#_Project's\Guess_Melody\GuessMelody\GuessMelody\obj\Debug\GuessMelody.fMain.resources
+D:\for_pragrammer\PROJECT'S\C#_Project's\Guess_Melody\GuessMelody\GuessMelody\obj\Debug\GuessMelody.fParam.resources
+D:\for_pragrammer\PROJECT'S\C#_Project's\Guess_Melody\GuessMelody\GuessMelody\obj\Debug\GuessMelody.fWin.resources
+D:\for_pragrammer\PROJECT'S\C#_Project's\Guess_Melody\GuessMelody\GuessMelody\obj\Debug\GuessMelody.Properties.Resources.resources
+D:\for_pragrammer\PROJECT'S\C#_Project's\Guess_Melody\GuessMelody\GuessMelody\obj\Debug\GuessMelody.csproj.GenerateResource.cache
+D:\for_pragrammer\PROJECT'S\C#_Project's\Guess_Melody\GuessMelody\GuessMelody\obj\Debug\GuessMelody.csproj.CoreCompileInputs.cache
+D:\for_pragrammer\PROJECT'S\C#_Project's\Guess_Melody\GuessMelody\GuessMelody\obj\Debug\GuessMelody.exe
+D:\for_pragrammer\PROJECT'S\C#_Project's\Guess_Melody\GuessMelody\GuessMelody\obj\Debug\GuessMelody.pdb
